@@ -1,0 +1,11 @@
+br\com\fatec\view\ProprietarioView$3.class
+br\com\fatec\adsva4_1705_lojacarros_bancodados\TestaConexao.class
+br\com\fatec\bean\Veiculo.class
+br\com\fatec\DAO\VeiculoDAO.class
+br\com\fatec\persistencia\Banco.class
+br\com\fatec\bean\Proprietario.class
+br\com\fatec\DAO\DAO.class
+br\com\fatec\view\ProprietarioView$1.class
+br\com\fatec\DAO\ProprietarioDAO.class
+br\com\fatec\view\ProprietarioView$2.class
+br\com\fatec\view\ProprietarioView.class
